@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1672412442 source:d:\coding\c++\tubes\main.cpp
+	<iostream>
+	"TUBES.h"
+
+1672412148 d:\coding\c++\tubes\tubes.h
+	<iostream>
+
+1672412124 source:d:\coding\c++\tubes\tubes.cpp
+	"TUBES.h"
+
